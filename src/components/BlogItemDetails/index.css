@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+.details-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.image {
+  height: 150px;
+  width: 250px;
+}
+.title {
+  font-size: 15px;
+  font-family: 'Bree serif';
+}
+.avatar {
+  height: 50px;
+  width: 60px;
+}
